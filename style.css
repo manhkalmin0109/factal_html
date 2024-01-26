@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#canvas1{
+    background: black;
+    position:absolute;
+    left: 0;
+    top: 0;
+
+}
+#controls{
+    position: absolute;
+    padding: 5px;
+    border: 2px solid wheat;
+    left: 30px;
+    top: 20px;
+    width: 170px;
+    height: 40px;
+
+}
+button{
+    margin-right: 5px;
+    width: 110px;
+    font-size: 20px;
+}
+label ,input{
+    color: wheat;
+    font-size: 15px;
+}
